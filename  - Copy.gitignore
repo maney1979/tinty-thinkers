@@ -1,0 +1,10 @@
+# Ignore system clutter and environment folders
+__pycache__/
+*.pyc
+*.log
+*.swp
+venv/
+.DS_Store
+Thumbs.db
+AppData/
+*.hprof
