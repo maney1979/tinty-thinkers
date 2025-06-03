@@ -1,4 +1,6 @@
 # Ignore system clutter and environment folders
+.env
+
 __pycache__/
 *.pyc
 *.log
